@@ -1,0 +1,15 @@
+{
+  "name": "gift-middleman",
+  "version": "1.0.0",
+  "description": "Bot usado para troca de gifts quando houve o evento",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^8.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "author": "Bee",
+  "license": "ISC"
+}
